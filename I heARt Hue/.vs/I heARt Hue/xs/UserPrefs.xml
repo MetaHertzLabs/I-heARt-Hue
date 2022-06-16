@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{BDAFE0AE-B8BE-2F38-2E5D-0E36D87DA133}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CubeData.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CubeData.cs" Line="24" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/HandController.cs" IsPinned="True" />
+      <File FileName="Assets/Scripts/BlockRandomizer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Hand.cs" />
+      <File FileName="Assets/Samples/OpenXR Plugin/1.3.1/Controller/Scripts/ActionToButton.cs" />
+      <File FileName="Assets/Scripts/MenuToggle.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@2.1.0-pre.1/Runtime/Interaction/Interactables/XRGrabInteractable.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@2.1.0-pre.1/Runtime/Interaction/Interactables/XRBaseInteractable.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@2.1.0-pre.1/Runtime/Interaction/Interactables/IXRHoverInteractable.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@2.1.0-pre.1/Runtime/Interaction/Interactables/IXRInteractable.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@2.1.0-pre.1/Runtime/Interaction/XRInteractionManager.cs" />
+      <File FileName="Assets/Scripts/SavedCubeData.cs" />
+      <File FileName="Assets/Scripts/GameText.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="I heARt Hue" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Samples" expanded="True">
+                <Node name="OpenXR Plugin" expanded="True">
+                  <Node name="1.3.1" expanded="True">
+                    <Node name="Controller" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="BlockRandomizer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e6665108-a25f-447f-9eb3-f31a227def51" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
